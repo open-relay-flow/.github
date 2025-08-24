@@ -1,47 +1,23 @@
-# Bienvenido a Voice Echo Flows 🌊🎙️
-Construyendo la próxima generación de asistentes de voz sobre VoIP.
+# Welcome to Open Relay Flow 🌊🎙️
+Building the next generation of voice assistants over VoIP.
 
-Voice Echo Flows es una plataforma modular de asistentes conversacionales que integra inteligencia artificial con infraestructura VoIP basada en Asterisk. Diseñada para automatizar y optimizar la atención telefónica, permite crear flujos de conversación inteligentes (“flows”) que responden de forma natural a los usuarios.
+Open Relay Flow is a modular conversational assistant platform that integrates artificial intelligence with Asterisk-based VoIP infrastructure. Designed to automate and optimize phone-based customer service, it enables the creation of intelligent conversation flows that respond naturally to users.
 
-Nuestra misión es democratizar el acceso a la IA conversacional, permitiendo que cualquier empresa pueda construir e integrar soluciones de voz potentes y flexibles sin necesidad de reemplazar su infraestructura existente.
+Our mission is to democratize access to conversational AI, empowering any business to build and integrate powerful, flexible voice solutions without replacing their existing infrastructure.
 
-## 💡 ¿Qué Hacemos?
-En Voice Echo Flows, nos enfocamos en crear herramientas y soluciones que permiten:
+## 💡 What We Do
+At Open Relay Flow, we focus on creating tools and solutions that enable:
 
-- **🤖 Diseñar y Desplegar Asistentes de Voz Personalizados**: Crea agentes inteligentes capaces de gestionar llamadas, responder preguntas, realizar transacciones y mucho más.
-- **🔌 Integrar IA en Asterisk**: Conecta fácilmente proveedores de IA conversacional como Ultravox, Vapi o Pipecat a tu sistema de telefonía Asterisk.
-- **🌊 Crear Flujos de Diálogo Dinámicos**: Modela conversaciones complejas de forma visual o mediante código, creando flujos reutilizables y escalables.
-- **🚀 Escalar Operaciones**: Ofrece respuestas rápidas, contextuales y disponibles 24/7, mejorando la eficiencia de tu contact center o sistema de atención.
+- **🤖 Design and Deploy Custom Voice Assistants**: Create intelligent agents capable of handling calls, answering questions, processing transactions, and more.
+- **🔌 Integrate AI with Asterisk**: Seamlessly connect conversational AI providers like Ultravox, Vapi, or Pipecat to your Asterisk telephony system.
+- **🌊 Build Dynamic Dialogue Flows**: Model complex conversations visually or through code, creating reusable and scalable flows.
+- **🚀 Scale Operations**: Deliver fast, contextual, and 24/7 responses, enhancing the efficiency of your contact center or support system.
 
-## 🔧 Nuestra Tecnología
-Nuestros proyectos se construyen sobre una base de tecnologías robustas y modernas. Aquí tienes un vistazo a nuestro stack principal:
+## 🔧 Our Technology
+Our projects are built on a foundation of robust and modern technologies. Here's a look at our core stack:
 
-- **Telefonía y VoIP**: Asterisk, PJSIP, WebRTC
-- **Backend y Lógica de Flujos**: Python, Node.js, FastAPI
-- **IA y Machine Learning**: Integraciones con Vapi, Ultravox, Pipecat, Google Speech-to-Text/Text-to-Speech, ElevenLabs
-- **Contenerización y Orquestación**: Docker, Kubernetes
-- **Bases de Datos**: Redis, PostgreSQL
-
-## 🚀 Nuestros Proyectos Principales
-Aquí encontrarás nuestros repositorios más importantes. ¡Te invitamos a explorarlos, usarlos y contribuir!
-
-| Repositorio | Descripción |
-|-------------|-------------|
-| **voice-echo** | El motor principal de Voice Echo Flows que orquesta los flujos y la comunicación con Asterisk. |
-| **🔌 echo-connectors** | Colección de conectores para integrar diferentes proveedores de IA y servicios de voz. |
-| **📚 documentation** | La documentación oficial, guías de inicio rápido y tutoriales. ¡Tu primer lugar para empezar! |
-| **✨ example-flows** | Una colección de flujos de ejemplo listos para usar, desde un IVR inteligente hasta un bot transaccional. |
-
-## 🤝 ¿Cómo Contribuir?
-¡Tu contribución es muy valiosa para nosotros! Si quieres formar parte de Voice Echo Flows, aquí tienes algunas formas de hacerlo:
-
-- **Explora los Repositorios**: Revisa nuestros proyectos y encuentra uno que te interese.
-- **Reporta Bugs o Sugiere Mejoras**: Abre un Issue en el repositorio correspondiente con una descripción detallada.
-- **Envía un Pull Request**: ¿Has corregido un bug o añadido una nueva función? ¡Genial! Revisa nuestra guía CONTRIBUTING.md en el repo y envía tu PR.
-
-Creemos en el poder de la comunidad de código abierto para construir tecnología increíble.
-
-## 🌐 Conecta con Nosotros
-- **Sitio Web**: voiceechoflows.com (Próximamente)
-- **Documentación Oficial**: docs.voiceechoflows.com
-- **Perfil de LinkedIn**: [LinkedIn](https://www.linkedin.com)
+- **Telephony and VoIP**: Asterisk, PJSIP, WebRTC
+- **Backend and Flow Logic**: Python, Node.js, FastAPI, Laravel
+- **AI and Machine Learning**: Integrations with Vapi, Ultravox, Pipecat, Google Speech-to-Text/Text-to-Speech, ElevenLabs
+- **Containerization and Orchestration**: Docker, Kubernetes
+- **Databases**: Redis, PostgreSQL
